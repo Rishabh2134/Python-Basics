@@ -1,4 +1,4 @@
-#split
+
 
 abc = ('My name is Rishabh')
 f = abc.split()
